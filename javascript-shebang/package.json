@@ -1,0 +1,26 @@
+{
+  "name": "javascript-shebang",
+  "version": "1.0.0",
+  "description": "An introduction to the Shebang comment (#!) in JavaScript",
+  "main": "javascript-shebang-node.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratikgchaudhari/javascript-tidbits.git"
+  },
+  "keywords": [
+    "javascript-shebang",
+    "shebang-comment"
+  ],
+  "author": "Pratik Chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikgchaudhari/javascript-tidbits/issues"
+  },
+  "homepage": "https://github.com/pratikgchaudhari/javascript-tidbits#readme",
+  "dependencies": {
+    "terminal-kit": "^3.1.1"
+  }
+}
