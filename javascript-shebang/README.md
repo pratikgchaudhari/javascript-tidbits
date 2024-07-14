@@ -40,4 +40,4 @@ Here's a gif for a quick sneak-peak:
 
 Head over to the following Git repo and take a look the actual code:
 
-https://github.com/pratikgchaudhari/javascript-tidbits/javascript-shebang
+https://github.com/pratikgchaudhari/javascript-tidbits/tree/main/javascript-shebang
